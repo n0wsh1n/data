@@ -1,0 +1,140 @@
+Regions code,Regions label,Region of workplace code,Region of workplace label,Count
+E12000001,North East,888888888,Workplace is offshore installation,406
+E12000001,North East,999999999,Workplace is outside the UK,1406
+E12000001,North East,E12000001,North East,4203
+E12000001,North East,E12000002,North West,405
+E12000001,North East,E12000003,Yorkshire and The Humber,380
+E12000001,North East,E12000004,East Midlands,115
+E12000001,North East,E12000005,West Midlands,97
+E12000001,North East,E12000006,East of England,152
+E12000001,North East,E12000007,London,276
+E12000001,North East,E12000008,South East,211
+E12000001,North East,E12000009,South West,237
+E12000001,North East,N99999999,Does not apply: Northern Ireland,4
+E12000001,North East,S99999999,Does not apply: Scotland,254
+E12000001,North East,W92000004,Wales,38
+E12000002,North West,888888888,Workplace is offshore installation,269
+E12000002,North West,999999999,Workplace is outside the UK,2907
+E12000002,North West,E12000001,North East,147
+E12000002,North West,E12000002,North West,11675
+E12000002,North West,E12000003,Yorkshire and The Humber,567
+E12000002,North West,E12000004,East Midlands,307
+E12000002,North West,E12000005,West Midlands,392
+E12000002,North West,E12000006,East of England,285
+E12000002,North West,E12000007,London,562
+E12000002,North West,E12000008,South East,446
+E12000002,North West,E12000009,South West,442
+E12000002,North West,N99999999,Does not apply: Northern Ireland,12
+E12000002,North West,S99999999,Does not apply: Scotland,284
+E12000002,North West,W92000004,Wales,250
+E12000003,Yorkshire and The Humber,888888888,Workplace is offshore installation,184
+E12000003,Yorkshire and The Humber,999999999,Workplace is outside the UK,1731
+E12000003,Yorkshire and The Humber,E12000001,North East,177
+E12000003,Yorkshire and The Humber,E12000002,North West,509
+E12000003,Yorkshire and The Humber,E12000003,Yorkshire and The Humber,7730
+E12000003,Yorkshire and The Humber,E12000004,East Midlands,325
+E12000003,Yorkshire and The Humber,E12000005,West Midlands,227
+E12000003,Yorkshire and The Humber,E12000006,East of England,239
+E12000003,Yorkshire and The Humber,E12000007,London,418
+E12000003,Yorkshire and The Humber,E12000008,South East,382
+E12000003,Yorkshire and The Humber,E12000009,South West,268
+E12000003,Yorkshire and The Humber,N99999999,Does not apply: Northern Ireland,9
+E12000003,Yorkshire and The Humber,S99999999,Does not apply: Scotland,157
+E12000003,Yorkshire and The Humber,W92000004,Wales,85
+E12000004,East Midlands,888888888,Workplace is offshore installation,87
+E12000004,East Midlands,999999999,Workplace is outside the UK,1459
+E12000004,East Midlands,E12000001,North East,59
+E12000004,East Midlands,E12000002,North West,263
+E12000004,East Midlands,E12000003,Yorkshire and The Humber,386
+E12000004,East Midlands,E12000004,East Midlands,7230
+E12000004,East Midlands,E12000005,West Midlands,389
+E12000004,East Midlands,E12000006,East of England,458
+E12000004,East Midlands,E12000007,London,683
+E12000004,East Midlands,E12000008,South East,539
+E12000004,East Midlands,E12000009,South West,319
+E12000004,East Midlands,N99999999,Does not apply: Northern Ireland,3
+E12000004,East Midlands,S99999999,Does not apply: Scotland,119
+E12000004,East Midlands,W92000004,Wales,77
+E12000005,West Midlands,888888888,Workplace is offshore installation,91
+E12000005,West Midlands,999999999,Workplace is outside the UK,1637
+E12000005,West Midlands,E12000001,North East,54
+E12000005,West Midlands,E12000002,North West,360
+E12000005,West Midlands,E12000003,Yorkshire and The Humber,211
+E12000005,West Midlands,E12000004,East Midlands,388
+E12000005,West Midlands,E12000005,West Midlands,8106
+E12000005,West Midlands,E12000006,East of England,304
+E12000005,West Midlands,E12000007,London,651
+E12000005,West Midlands,E12000008,South East,616
+E12000005,West Midlands,E12000009,South West,550
+E12000005,West Midlands,N99999999,Does not apply: Northern Ireland,11
+E12000005,West Midlands,S99999999,Does not apply: Scotland,101
+E12000005,West Midlands,W92000004,Wales,249
+E12000006,East of England,888888888,Workplace is offshore installation,174
+E12000006,East of England,999999999,Workplace is outside the UK,2030
+E12000006,East of England,E12000001,North East,27
+E12000006,East of England,E12000002,North West,142
+E12000006,East of England,E12000003,Yorkshire and The Humber,163
+E12000006,East of England,E12000004,East Midlands,265
+E12000006,East of England,E12000005,West Midlands,221
+E12000006,East of England,E12000006,East of England,10676
+E12000006,East of England,E12000007,London,1238
+E12000006,East of England,E12000008,South East,761
+E12000006,East of England,E12000009,South West,291
+E12000006,East of England,N99999999,Does not apply: Northern Ireland,7
+E12000006,East of England,S99999999,Does not apply: Scotland,114
+E12000006,East of England,W92000004,Wales,63
+E12000007,London,888888888,Workplace is offshore installation,174
+E12000007,London,999999999,Workplace is outside the UK,4079
+E12000007,London,E12000001,North East,44
+E12000007,London,E12000002,North West,227
+E12000007,London,E12000003,Yorkshire and The Humber,184
+E12000007,London,E12000004,East Midlands,260
+E12000007,London,E12000005,West Midlands,318
+E12000007,London,E12000006,East of England,829
+E12000007,London,E12000007,London,23078
+E12000007,London,E12000008,South East,1400
+E12000007,London,E12000009,South West,537
+E12000007,London,N99999999,Does not apply: Northern Ireland,14
+E12000007,London,S99999999,Does not apply: Scotland,119
+E12000007,London,W92000004,Wales,113
+E12000008,South East,888888888,Workplace is offshore installation,240
+E12000008,South East,999999999,Workplace is outside the UK,3656
+E12000008,South East,E12000001,North East,43
+E12000008,South East,E12000002,North West,177
+E12000008,South East,E12000003,Yorkshire and The Humber,153
+E12000008,South East,E12000004,East Midlands,265
+E12000008,South East,E12000005,West Midlands,310
+E12000008,South East,E12000006,East of England,688
+E12000008,South East,E12000007,London,2181
+E12000008,South East,E12000008,South East,19525
+E12000008,South East,E12000009,South West,859
+E12000008,South East,N99999999,Does not apply: Northern Ireland,6
+E12000008,South East,S99999999,Does not apply: Scotland,160
+E12000008,South East,W92000004,Wales,160
+E12000009,South West,888888888,Workplace is offshore installation,182
+E12000009,South West,999999999,Workplace is outside the UK,2044
+E12000009,South West,E12000001,North East,23
+E12000009,South West,E12000002,North West,112
+E12000009,South West,E12000003,Yorkshire and The Humber,102
+E12000009,South West,E12000004,East Midlands,158
+E12000009,South West,E12000005,West Midlands,336
+E12000009,South West,E12000006,East of England,303
+E12000009,South West,E12000007,London,1065
+E12000009,South West,E12000008,South East,1259
+E12000009,South West,E12000009,South West,13352
+E12000009,South West,N99999999,Does not apply: Northern Ireland,11
+E12000009,South West,S99999999,Does not apply: Scotland,154
+E12000009,South West,W92000004,Wales,190
+W92000004,Wales,888888888,Workplace is offshore installation,137
+W92000004,Wales,999999999,Workplace is outside the UK,1025
+W92000004,Wales,E12000001,North East,20
+W92000004,Wales,E12000002,North West,374
+W92000004,Wales,E12000003,Yorkshire and The Humber,95
+W92000004,Wales,E12000004,East Midlands,116
+W92000004,Wales,E12000005,West Midlands,341
+W92000004,Wales,E12000006,East of England,153
+W92000004,Wales,E12000007,London,404
+W92000004,Wales,E12000008,South East,512
+W92000004,Wales,E12000009,South West,785
+W92000004,Wales,S99999999,Does not apply: Scotland,76
+W92000004,Wales,W92000004,Wales,6108
