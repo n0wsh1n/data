@@ -1,0 +1,762 @@
+Lower tier local authorities code,Lower tier local authorities label,LTLA of workplace code,LTLA of workplace label,Count
+E09000001,City of London,E09000001,City of London,64
+E09000001,City of London,E09000007,Camden,1
+E09000001,City of London,E09000019,Islington,2
+E09000001,City of London,E09000022,Lambeth,2
+E09000001,City of London,E09000033,Westminster,8
+E09000002,Barking and Dagenham,E09000001,City of London,2
+E09000002,Barking and Dagenham,E09000002,Barking and Dagenham,176
+E09000002,Barking and Dagenham,E09000003,Barnet,1
+E09000002,Barking and Dagenham,E09000006,Bromley,1
+E09000002,Barking and Dagenham,E09000007,Camden,4
+E09000002,Barking and Dagenham,E09000010,Enfield,2
+E09000002,Barking and Dagenham,E09000011,Greenwich,3
+E09000002,Barking and Dagenham,E09000012,Hackney,5
+E09000002,Barking and Dagenham,E09000014,Haringey,3
+E09000002,Barking and Dagenham,E09000015,Harrow,2
+E09000002,Barking and Dagenham,E09000016,Havering,13
+E09000002,Barking and Dagenham,E09000019,Islington,3
+E09000002,Barking and Dagenham,E09000020,Kensington and Chelsea,5
+E09000002,Barking and Dagenham,E09000022,Lambeth,3
+E09000002,Barking and Dagenham,E09000025,Newham,10
+E09000002,Barking and Dagenham,E09000026,Redbridge,9
+E09000002,Barking and Dagenham,E09000028,Southwark,5
+E09000002,Barking and Dagenham,E09000030,Tower Hamlets,8
+E09000002,Barking and Dagenham,E09000031,Waltham Forest,7
+E09000002,Barking and Dagenham,E09000032,Wandsworth,2
+E09000002,Barking and Dagenham,E09000033,Westminster,8
+E09000003,Barnet,E09000001,City of London,5
+E09000003,Barnet,E09000003,Barnet,833
+E09000003,Barnet,E09000004,Bexley,2
+E09000003,Barnet,E09000005,Brent,18
+E09000003,Barnet,E09000007,Camden,29
+E09000003,Barnet,E09000008,Croydon,3
+E09000003,Barnet,E09000009,Ealing,4
+E09000003,Barnet,E09000010,Enfield,20
+E09000003,Barnet,E09000012,Hackney,5
+E09000003,Barnet,E09000013,Hammersmith and Fulham,2
+E09000003,Barnet,E09000014,Haringey,9
+E09000003,Barnet,E09000015,Harrow,12
+E09000003,Barnet,E09000016,Havering,1
+E09000003,Barnet,E09000017,Hillingdon,2
+E09000003,Barnet,E09000019,Islington,9
+E09000003,Barnet,E09000020,Kensington and Chelsea,10
+E09000003,Barnet,E09000022,Lambeth,3
+E09000003,Barnet,E09000024,Merton,8
+E09000003,Barnet,E09000025,Newham,1
+E09000003,Barnet,E09000026,Redbridge,2
+E09000003,Barnet,E09000028,Southwark,4
+E09000003,Barnet,E09000029,Sutton,1
+E09000003,Barnet,E09000030,Tower Hamlets,2
+E09000003,Barnet,E09000031,Waltham Forest,5
+E09000003,Barnet,E09000032,Wandsworth,3
+E09000003,Barnet,E09000033,Westminster,29
+E09000004,Bexley,E09000001,City of London,1
+E09000004,Bexley,E09000004,Bexley,221
+E09000004,Bexley,E09000005,Brent,1
+E09000004,Bexley,E09000006,Bromley,8
+E09000004,Bexley,E09000007,Camden,5
+E09000004,Bexley,E09000008,Croydon,2
+E09000004,Bexley,E09000011,Greenwich,21
+E09000004,Bexley,E09000013,Hammersmith and Fulham,2
+E09000004,Bexley,E09000014,Haringey,1
+E09000004,Bexley,E09000015,Harrow,2
+E09000004,Bexley,E09000016,Havering,1
+E09000004,Bexley,E09000017,Hillingdon,1
+E09000004,Bexley,E09000020,Kensington and Chelsea,4
+E09000004,Bexley,E09000021,Kingston upon Thames,3
+E09000004,Bexley,E09000023,Lewisham,4
+E09000004,Bexley,E09000025,Newham,3
+E09000004,Bexley,E09000026,Redbridge,3
+E09000004,Bexley,E09000027,Richmond upon Thames,1
+E09000004,Bexley,E09000028,Southwark,8
+E09000004,Bexley,E09000030,Tower Hamlets,5
+E09000004,Bexley,E09000031,Waltham Forest,1
+E09000004,Bexley,E09000032,Wandsworth,3
+E09000004,Bexley,E09000033,Westminster,7
+E09000005,Brent,E09000001,City of London,3
+E09000005,Brent,E09000003,Barnet,22
+E09000005,Brent,E09000005,Brent,570
+E09000005,Brent,E09000006,Bromley,1
+E09000005,Brent,E09000007,Camden,21
+E09000005,Brent,E09000008,Croydon,1
+E09000005,Brent,E09000009,Ealing,12
+E09000005,Brent,E09000012,Hackney,2
+E09000005,Brent,E09000013,Hammersmith and Fulham,9
+E09000005,Brent,E09000014,Haringey,3
+E09000005,Brent,E09000015,Harrow,6
+E09000005,Brent,E09000017,Hillingdon,13
+E09000005,Brent,E09000018,Hounslow,1
+E09000005,Brent,E09000019,Islington,10
+E09000005,Brent,E09000020,Kensington and Chelsea,19
+E09000005,Brent,E09000022,Lambeth,11
+E09000005,Brent,E09000025,Newham,1
+E09000005,Brent,E09000026,Redbridge,2
+E09000005,Brent,E09000027,Richmond upon Thames,2
+E09000005,Brent,E09000028,Southwark,1
+E09000005,Brent,E09000029,Sutton,10
+E09000005,Brent,E09000030,Tower Hamlets,4
+E09000005,Brent,E09000032,Wandsworth,5
+E09000005,Brent,E09000033,Westminster,45
+E09000006,Bromley,E09000001,City of London,5
+E09000006,Bromley,E09000004,Bexley,3
+E09000006,Bromley,E09000005,Brent,3
+E09000006,Bromley,E09000006,Bromley,465
+E09000006,Bromley,E09000007,Camden,7
+E09000006,Bromley,E09000008,Croydon,7
+E09000006,Bromley,E09000010,Enfield,2
+E09000006,Bromley,E09000011,Greenwich,8
+E09000006,Bromley,E09000012,Hackney,1
+E09000006,Bromley,E09000013,Hammersmith and Fulham,2
+E09000006,Bromley,E09000014,Haringey,2
+E09000006,Bromley,E09000017,Hillingdon,1
+E09000006,Bromley,E09000019,Islington,2
+E09000006,Bromley,E09000020,Kensington and Chelsea,5
+E09000006,Bromley,E09000022,Lambeth,14
+E09000006,Bromley,E09000023,Lewisham,11
+E09000006,Bromley,E09000024,Merton,2
+E09000006,Bromley,E09000026,Redbridge,1
+E09000006,Bromley,E09000028,Southwark,1
+E09000006,Bromley,E09000029,Sutton,1
+E09000006,Bromley,E09000030,Tower Hamlets,5
+E09000006,Bromley,E09000031,Waltham Forest,1
+E09000006,Bromley,E09000032,Wandsworth,2
+E09000006,Bromley,E09000033,Westminster,8
+E09000007,Camden,E09000001,City of London,14
+E09000007,Camden,E09000003,Barnet,3
+E09000007,Camden,E09000004,Bexley,1
+E09000007,Camden,E09000005,Brent,5
+E09000007,Camden,E09000007,Camden,899
+E09000007,Camden,E09000009,Ealing,4
+E09000007,Camden,E09000012,Hackney,1
+E09000007,Camden,E09000013,Hammersmith and Fulham,2
+E09000007,Camden,E09000014,Haringey,3
+E09000007,Camden,E09000015,Harrow,1
+E09000007,Camden,E09000016,Havering,2
+E09000007,Camden,E09000017,Hillingdon,2
+E09000007,Camden,E09000019,Islington,5
+E09000007,Camden,E09000020,Kensington and Chelsea,10
+E09000007,Camden,E09000021,Kingston upon Thames,2
+E09000007,Camden,E09000022,Lambeth,7
+E09000007,Camden,E09000024,Merton,1
+E09000007,Camden,E09000025,Newham,1
+E09000007,Camden,E09000028,Southwark,2
+E09000007,Camden,E09000030,Tower Hamlets,5
+E09000007,Camden,E09000032,Wandsworth,2
+E09000007,Camden,E09000033,Westminster,40
+E09000008,Croydon,E09000001,City of London,3
+E09000008,Croydon,E09000003,Barnet,1
+E09000008,Croydon,E09000004,Bexley,1
+E09000008,Croydon,E09000005,Brent,2
+E09000008,Croydon,E09000006,Bromley,19
+E09000008,Croydon,E09000007,Camden,24
+E09000008,Croydon,E09000008,Croydon,515
+E09000008,Croydon,E09000010,Enfield,2
+E09000008,Croydon,E09000011,Greenwich,2
+E09000008,Croydon,E09000012,Hackney,1
+E09000008,Croydon,E09000013,Hammersmith and Fulham,3
+E09000008,Croydon,E09000015,Harrow,2
+E09000008,Croydon,E09000017,Hillingdon,3
+E09000008,Croydon,E09000019,Islington,3
+E09000008,Croydon,E09000020,Kensington and Chelsea,7
+E09000008,Croydon,E09000022,Lambeth,23
+E09000008,Croydon,E09000023,Lewisham,2
+E09000008,Croydon,E09000024,Merton,4
+E09000008,Croydon,E09000026,Redbridge,1
+E09000008,Croydon,E09000027,Richmond upon Thames,3
+E09000008,Croydon,E09000028,Southwark,14
+E09000008,Croydon,E09000029,Sutton,8
+E09000008,Croydon,E09000030,Tower Hamlets,1
+E09000008,Croydon,E09000031,Waltham Forest,2
+E09000008,Croydon,E09000032,Wandsworth,15
+E09000008,Croydon,E09000033,Westminster,8
+E09000009,Ealing,E09000001,City of London,9
+E09000009,Ealing,E09000003,Barnet,4
+E09000009,Ealing,E09000005,Brent,9
+E09000009,Ealing,E09000007,Camden,15
+E09000009,Ealing,E09000008,Croydon,1
+E09000009,Ealing,E09000009,Ealing,676
+E09000009,Ealing,E09000010,Enfield,4
+E09000009,Ealing,E09000011,Greenwich,1
+E09000009,Ealing,E09000013,Hammersmith and Fulham,17
+E09000009,Ealing,E09000014,Haringey,1
+E09000009,Ealing,E09000015,Harrow,5
+E09000009,Ealing,E09000016,Havering,1
+E09000009,Ealing,E09000017,Hillingdon,11
+E09000009,Ealing,E09000018,Hounslow,18
+E09000009,Ealing,E09000019,Islington,4
+E09000009,Ealing,E09000020,Kensington and Chelsea,21
+E09000009,Ealing,E09000021,Kingston upon Thames,1
+E09000009,Ealing,E09000024,Merton,1
+E09000009,Ealing,E09000027,Richmond upon Thames,4
+E09000009,Ealing,E09000028,Southwark,2
+E09000009,Ealing,E09000029,Sutton,1
+E09000009,Ealing,E09000030,Tower Hamlets,6
+E09000009,Ealing,E09000031,Waltham Forest,2
+E09000009,Ealing,E09000032,Wandsworth,4
+E09000009,Ealing,E09000033,Westminster,36
+E09000010,Enfield,E09000001,City of London,4
+E09000010,Enfield,E09000002,Barking and Dagenham,4
+E09000010,Enfield,E09000003,Barnet,20
+E09000010,Enfield,E09000004,Bexley,1
+E09000010,Enfield,E09000005,Brent,5
+E09000010,Enfield,E09000007,Camden,12
+E09000010,Enfield,E09000009,Ealing,3
+E09000010,Enfield,E09000010,Enfield,412
+E09000010,Enfield,E09000011,Greenwich,1
+E09000010,Enfield,E09000012,Hackney,3
+E09000010,Enfield,E09000013,Hammersmith and Fulham,1
+E09000010,Enfield,E09000014,Haringey,23
+E09000010,Enfield,E09000015,Harrow,1
+E09000010,Enfield,E09000016,Havering,4
+E09000010,Enfield,E09000018,Hounslow,2
+E09000010,Enfield,E09000019,Islington,10
+E09000010,Enfield,E09000022,Lambeth,3
+E09000010,Enfield,E09000023,Lewisham,1
+E09000010,Enfield,E09000025,Newham,3
+E09000010,Enfield,E09000026,Redbridge,1
+E09000010,Enfield,E09000028,Southwark,1
+E09000010,Enfield,E09000030,Tower Hamlets,3
+E09000010,Enfield,E09000031,Waltham Forest,7
+E09000010,Enfield,E09000032,Wandsworth,1
+E09000010,Enfield,E09000033,Westminster,23
+E09000011,Greenwich,E09000001,City of London,4
+E09000011,Greenwich,E09000003,Barnet,3
+E09000011,Greenwich,E09000004,Bexley,11
+E09000011,Greenwich,E09000005,Brent,3
+E09000011,Greenwich,E09000006,Bromley,8
+E09000011,Greenwich,E09000007,Camden,7
+E09000011,Greenwich,E09000009,Ealing,1
+E09000011,Greenwich,E09000010,Enfield,2
+E09000011,Greenwich,E09000011,Greenwich,520
+E09000011,Greenwich,E09000013,Hammersmith and Fulham,1
+E09000011,Greenwich,E09000015,Harrow,1
+E09000011,Greenwich,E09000017,Hillingdon,2
+E09000011,Greenwich,E09000018,Hounslow,2
+E09000011,Greenwich,E09000019,Islington,3
+E09000011,Greenwich,E09000020,Kensington and Chelsea,6
+E09000011,Greenwich,E09000021,Kingston upon Thames,1
+E09000011,Greenwich,E09000022,Lambeth,8
+E09000011,Greenwich,E09000023,Lewisham,18
+E09000011,Greenwich,E09000025,Newham,3
+E09000011,Greenwich,E09000026,Redbridge,3
+E09000011,Greenwich,E09000028,Southwark,7
+E09000011,Greenwich,E09000029,Sutton,3
+E09000011,Greenwich,E09000030,Tower Hamlets,10
+E09000011,Greenwich,E09000033,Westminster,5
+E09000012,Hackney,E09000001,City of London,17
+E09000012,Hackney,E09000003,Barnet,3
+E09000012,Hackney,E09000005,Brent,2
+E09000012,Hackney,E09000006,Bromley,1
+E09000012,Hackney,E09000007,Camden,14
+E09000012,Hackney,E09000009,Ealing,1
+E09000012,Hackney,E09000010,Enfield,3
+E09000012,Hackney,E09000011,Greenwich,2
+E09000012,Hackney,E09000012,Hackney,605
+E09000012,Hackney,E09000014,Haringey,5
+E09000012,Hackney,E09000017,Hillingdon,1
+E09000012,Hackney,E09000018,Hounslow,1
+E09000012,Hackney,E09000019,Islington,10
+E09000012,Hackney,E09000020,Kensington and Chelsea,5
+E09000012,Hackney,E09000022,Lambeth,4
+E09000012,Hackney,E09000025,Newham,7
+E09000012,Hackney,E09000026,Redbridge,2
+E09000012,Hackney,E09000028,Southwark,13
+E09000012,Hackney,E09000029,Sutton,2
+E09000012,Hackney,E09000030,Tower Hamlets,11
+E09000012,Hackney,E09000031,Waltham Forest,1
+E09000012,Hackney,E09000032,Wandsworth,9
+E09000012,Hackney,E09000033,Westminster,14
+E09000013,Hammersmith and Fulham,E09000001,City of London,15
+E09000013,Hammersmith and Fulham,E09000003,Barnet,3
+E09000013,Hammersmith and Fulham,E09000005,Brent,2
+E09000013,Hammersmith and Fulham,E09000007,Camden,1
+E09000013,Hammersmith and Fulham,E09000008,Croydon,2
+E09000013,Hammersmith and Fulham,E09000009,Ealing,4
+E09000013,Hammersmith and Fulham,E09000013,Hammersmith and Fulham,679
+E09000013,Hammersmith and Fulham,E09000015,Harrow,2
+E09000013,Hammersmith and Fulham,E09000017,Hillingdon,3
+E09000013,Hammersmith and Fulham,E09000018,Hounslow,4
+E09000013,Hammersmith and Fulham,E09000019,Islington,2
+E09000013,Hammersmith and Fulham,E09000020,Kensington and Chelsea,28
+E09000013,Hammersmith and Fulham,E09000022,Lambeth,2
+E09000013,Hammersmith and Fulham,E09000024,Merton,3
+E09000013,Hammersmith and Fulham,E09000025,Newham,1
+E09000013,Hammersmith and Fulham,E09000026,Redbridge,1
+E09000013,Hammersmith and Fulham,E09000027,Richmond upon Thames,3
+E09000013,Hammersmith and Fulham,E09000028,Southwark,6
+E09000013,Hammersmith and Fulham,E09000029,Sutton,3
+E09000013,Hammersmith and Fulham,E09000030,Tower Hamlets,1
+E09000013,Hammersmith and Fulham,E09000031,Waltham Forest,1
+E09000013,Hammersmith and Fulham,E09000032,Wandsworth,3
+E09000013,Hammersmith and Fulham,E09000033,Westminster,40
+E09000014,Haringey,E09000001,City of London,10
+E09000014,Haringey,E09000002,Barking and Dagenham,2
+E09000014,Haringey,E09000003,Barnet,11
+E09000014,Haringey,E09000004,Bexley,1
+E09000014,Haringey,E09000005,Brent,3
+E09000014,Haringey,E09000007,Camden,17
+E09000014,Haringey,E09000008,Croydon,1
+E09000014,Haringey,E09000010,Enfield,16
+E09000014,Haringey,E09000011,Greenwich,1
+E09000014,Haringey,E09000012,Hackney,31
+E09000014,Haringey,E09000013,Hammersmith and Fulham,2
+E09000014,Haringey,E09000014,Haringey,500
+E09000014,Haringey,E09000015,Harrow,1
+E09000014,Haringey,E09000018,Hounslow,1
+E09000014,Haringey,E09000019,Islington,13
+E09000014,Haringey,E09000020,Kensington and Chelsea,3
+E09000014,Haringey,E09000021,Kingston upon Thames,1
+E09000014,Haringey,E09000022,Lambeth,4
+E09000014,Haringey,E09000023,Lewisham,3
+E09000014,Haringey,E09000025,Newham,3
+E09000014,Haringey,E09000026,Redbridge,1
+E09000014,Haringey,E09000027,Richmond upon Thames,1
+E09000014,Haringey,E09000028,Southwark,5
+E09000014,Haringey,E09000030,Tower Hamlets,7
+E09000014,Haringey,E09000031,Waltham Forest,4
+E09000014,Haringey,E09000032,Wandsworth,4
+E09000014,Haringey,E09000033,Westminster,19
+E09000015,Harrow,E09000001,City of London,9
+E09000015,Harrow,E09000003,Barnet,5
+E09000015,Harrow,E09000005,Brent,18
+E09000015,Harrow,E09000006,Bromley,3
+E09000015,Harrow,E09000007,Camden,9
+E09000015,Harrow,E09000008,Croydon,1
+E09000015,Harrow,E09000009,Ealing,8
+E09000015,Harrow,E09000010,Enfield,1
+E09000015,Harrow,E09000011,Greenwich,1
+E09000015,Harrow,E09000012,Hackney,2
+E09000015,Harrow,E09000014,Haringey,4
+E09000015,Harrow,E09000015,Harrow,426
+E09000015,Harrow,E09000016,Havering,3
+E09000015,Harrow,E09000017,Hillingdon,10
+E09000015,Harrow,E09000018,Hounslow,2
+E09000015,Harrow,E09000020,Kensington and Chelsea,6
+E09000015,Harrow,E09000021,Kingston upon Thames,1
+E09000015,Harrow,E09000022,Lambeth,1
+E09000015,Harrow,E09000027,Richmond upon Thames,1
+E09000015,Harrow,E09000028,Southwark,8
+E09000015,Harrow,E09000029,Sutton,1
+E09000015,Harrow,E09000030,Tower Hamlets,12
+E09000015,Harrow,E09000033,Westminster,10
+E09000016,Havering,E09000001,City of London,5
+E09000016,Havering,E09000002,Barking and Dagenham,6
+E09000016,Havering,E09000004,Bexley,1
+E09000016,Havering,E09000005,Brent,2
+E09000016,Havering,E09000006,Bromley,1
+E09000016,Havering,E09000007,Camden,7
+E09000016,Havering,E09000010,Enfield,3
+E09000016,Havering,E09000011,Greenwich,3
+E09000016,Havering,E09000012,Hackney,1
+E09000016,Havering,E09000013,Hammersmith and Fulham,4
+E09000016,Havering,E09000015,Harrow,1
+E09000016,Havering,E09000016,Havering,226
+E09000016,Havering,E09000017,Hillingdon,3
+E09000016,Havering,E09000018,Hounslow,2
+E09000016,Havering,E09000019,Islington,1
+E09000016,Havering,E09000020,Kensington and Chelsea,3
+E09000016,Havering,E09000021,Kingston upon Thames,1
+E09000016,Havering,E09000022,Lambeth,2
+E09000016,Havering,E09000024,Merton,2
+E09000016,Havering,E09000025,Newham,6
+E09000016,Havering,E09000026,Redbridge,12
+E09000016,Havering,E09000028,Southwark,3
+E09000016,Havering,E09000030,Tower Hamlets,12
+E09000016,Havering,E09000031,Waltham Forest,2
+E09000016,Havering,E09000032,Wandsworth,1
+E09000016,Havering,E09000033,Westminster,5
+E09000017,Hillingdon,E09000001,City of London,4
+E09000017,Hillingdon,E09000002,Barking and Dagenham,2
+E09000017,Hillingdon,E09000003,Barnet,3
+E09000017,Hillingdon,E09000005,Brent,6
+E09000017,Hillingdon,E09000007,Camden,7
+E09000017,Hillingdon,E09000009,Ealing,22
+E09000017,Hillingdon,E09000010,Enfield,1
+E09000017,Hillingdon,E09000011,Greenwich,3
+E09000017,Hillingdon,E09000012,Hackney,1
+E09000017,Hillingdon,E09000013,Hammersmith and Fulham,3
+E09000017,Hillingdon,E09000015,Harrow,17
+E09000017,Hillingdon,E09000017,Hillingdon,424
+E09000017,Hillingdon,E09000018,Hounslow,3
+E09000017,Hillingdon,E09000019,Islington,3
+E09000017,Hillingdon,E09000020,Kensington and Chelsea,5
+E09000017,Hillingdon,E09000021,Kingston upon Thames,1
+E09000017,Hillingdon,E09000022,Lambeth,3
+E09000017,Hillingdon,E09000027,Richmond upon Thames,1
+E09000017,Hillingdon,E09000028,Southwark,6
+E09000017,Hillingdon,E09000030,Tower Hamlets,3
+E09000017,Hillingdon,E09000031,Waltham Forest,1
+E09000017,Hillingdon,E09000032,Wandsworth,3
+E09000017,Hillingdon,E09000033,Westminster,13
+E09000019,Islington,E09000001,City of London,14
+E09000019,Islington,E09000005,Brent,3
+E09000019,Islington,E09000007,Camden,25
+E09000019,Islington,E09000009,Ealing,2
+E09000019,Islington,E09000010,Enfield,3
+E09000019,Islington,E09000011,Greenwich,2
+E09000019,Islington,E09000012,Hackney,9
+E09000019,Islington,E09000013,Hammersmith and Fulham,3
+E09000019,Islington,E09000014,Haringey,6
+E09000019,Islington,E09000018,Hounslow,2
+E09000019,Islington,E09000019,Islington,663
+E09000019,Islington,E09000020,Kensington and Chelsea,6
+E09000019,Islington,E09000022,Lambeth,5
+E09000019,Islington,E09000025,Newham,1
+E09000019,Islington,E09000027,Richmond upon Thames,1
+E09000019,Islington,E09000028,Southwark,3
+E09000019,Islington,E09000029,Sutton,1
+E09000019,Islington,E09000030,Tower Hamlets,6
+E09000019,Islington,E09000032,Wandsworth,3
+E09000019,Islington,E09000033,Westminster,12
+E09000020,Kensington and Chelsea,E09000001,City of London,23
+E09000020,Kensington and Chelsea,E09000003,Barnet,1
+E09000020,Kensington and Chelsea,E09000005,Brent,3
+E09000020,Kensington and Chelsea,E09000007,Camden,20
+E09000020,Kensington and Chelsea,E09000008,Croydon,1
+E09000020,Kensington and Chelsea,E09000009,Ealing,2
+E09000020,Kensington and Chelsea,E09000011,Greenwich,1
+E09000020,Kensington and Chelsea,E09000012,Hackney,1
+E09000020,Kensington and Chelsea,E09000013,Hammersmith and Fulham,17
+E09000020,Kensington and Chelsea,E09000015,Harrow,1
+E09000020,Kensington and Chelsea,E09000016,Havering,2
+E09000020,Kensington and Chelsea,E09000018,Hounslow,1
+E09000020,Kensington and Chelsea,E09000019,Islington,3
+E09000020,Kensington and Chelsea,E09000020,Kensington and Chelsea,1202
+E09000020,Kensington and Chelsea,E09000022,Lambeth,12
+E09000020,Kensington and Chelsea,E09000024,Merton,2
+E09000020,Kensington and Chelsea,E09000025,Newham,1
+E09000020,Kensington and Chelsea,E09000027,Richmond upon Thames,1
+E09000020,Kensington and Chelsea,E09000028,Southwark,3
+E09000020,Kensington and Chelsea,E09000030,Tower Hamlets,6
+E09000020,Kensington and Chelsea,E09000032,Wandsworth,6
+E09000020,Kensington and Chelsea,E09000033,Westminster,113
+E09000021,Kingston upon Thames,E09000001,City of London,2
+E09000021,Kingston upon Thames,E09000003,Barnet,2
+E09000021,Kingston upon Thames,E09000004,Bexley,1
+E09000021,Kingston upon Thames,E09000005,Brent,3
+E09000021,Kingston upon Thames,E09000006,Bromley,1
+E09000021,Kingston upon Thames,E09000007,Camden,1
+E09000021,Kingston upon Thames,E09000008,Croydon,4
+E09000021,Kingston upon Thames,E09000011,Greenwich,4
+E09000021,Kingston upon Thames,E09000013,Hammersmith and Fulham,4
+E09000021,Kingston upon Thames,E09000015,Harrow,1
+E09000021,Kingston upon Thames,E09000017,Hillingdon,2
+E09000021,Kingston upon Thames,E09000018,Hounslow,2
+E09000021,Kingston upon Thames,E09000020,Kensington and Chelsea,2
+E09000021,Kingston upon Thames,E09000021,Kingston upon Thames,298
+E09000021,Kingston upon Thames,E09000022,Lambeth,1
+E09000021,Kingston upon Thames,E09000023,Lewisham,2
+E09000021,Kingston upon Thames,E09000024,Merton,5
+E09000021,Kingston upon Thames,E09000025,Newham,1
+E09000021,Kingston upon Thames,E09000027,Richmond upon Thames,5
+E09000021,Kingston upon Thames,E09000028,Southwark,1
+E09000021,Kingston upon Thames,E09000029,Sutton,2
+E09000021,Kingston upon Thames,E09000030,Tower Hamlets,2
+E09000021,Kingston upon Thames,E09000032,Wandsworth,5
+E09000021,Kingston upon Thames,E09000033,Westminster,5
+E09000022,Lambeth,E09000001,City of London,12
+E09000022,Lambeth,E09000003,Barnet,3
+E09000022,Lambeth,E09000005,Brent,1
+E09000022,Lambeth,E09000006,Bromley,5
+E09000022,Lambeth,E09000007,Camden,20
+E09000022,Lambeth,E09000008,Croydon,12
+E09000022,Lambeth,E09000009,Ealing,5
+E09000022,Lambeth,E09000010,Enfield,1
+E09000022,Lambeth,E09000011,Greenwich,1
+E09000022,Lambeth,E09000012,Hackney,2
+E09000022,Lambeth,E09000013,Hammersmith and Fulham,12
+E09000022,Lambeth,E09000014,Haringey,4
+E09000022,Lambeth,E09000017,Hillingdon,4
+E09000022,Lambeth,E09000018,Hounslow,1
+E09000022,Lambeth,E09000019,Islington,5
+E09000022,Lambeth,E09000020,Kensington and Chelsea,16
+E09000022,Lambeth,E09000022,Lambeth,826
+E09000022,Lambeth,E09000023,Lewisham,5
+E09000022,Lambeth,E09000024,Merton,4
+E09000022,Lambeth,E09000025,Newham,2
+E09000022,Lambeth,E09000026,Redbridge,2
+E09000022,Lambeth,E09000027,Richmond upon Thames,3
+E09000022,Lambeth,E09000028,Southwark,18
+E09000022,Lambeth,E09000029,Sutton,2
+E09000022,Lambeth,E09000030,Tower Hamlets,1
+E09000022,Lambeth,E09000031,Waltham Forest,1
+E09000022,Lambeth,E09000032,Wandsworth,15
+E09000022,Lambeth,E09000033,Westminster,40
+E09000023,Lewisham,E09000001,City of London,6
+E09000023,Lewisham,E09000003,Barnet,1
+E09000023,Lewisham,E09000004,Bexley,3
+E09000023,Lewisham,E09000005,Brent,1
+E09000023,Lewisham,E09000006,Bromley,20
+E09000023,Lewisham,E09000007,Camden,5
+E09000023,Lewisham,E09000008,Croydon,3
+E09000023,Lewisham,E09000010,Enfield,3
+E09000023,Lewisham,E09000011,Greenwich,9
+E09000023,Lewisham,E09000012,Hackney,2
+E09000023,Lewisham,E09000013,Hammersmith and Fulham,1
+E09000023,Lewisham,E09000014,Haringey,1
+E09000023,Lewisham,E09000016,Havering,3
+E09000023,Lewisham,E09000019,Islington,2
+E09000023,Lewisham,E09000020,Kensington and Chelsea,7
+E09000023,Lewisham,E09000021,Kingston upon Thames,1
+E09000023,Lewisham,E09000022,Lambeth,15
+E09000023,Lewisham,E09000023,Lewisham,506
+E09000023,Lewisham,E09000024,Merton,2
+E09000023,Lewisham,E09000025,Newham,2
+E09000023,Lewisham,E09000027,Richmond upon Thames,1
+E09000023,Lewisham,E09000028,Southwark,15
+E09000023,Lewisham,E09000030,Tower Hamlets,13
+E09000023,Lewisham,E09000032,Wandsworth,4
+E09000023,Lewisham,E09000033,Westminster,13
+E09000024,Merton,E09000001,City of London,5
+E09000024,Merton,E09000005,Brent,1
+E09000024,Merton,E09000007,Camden,1
+E09000024,Merton,E09000008,Croydon,3
+E09000024,Merton,E09000011,Greenwich,1
+E09000024,Merton,E09000013,Hammersmith and Fulham,5
+E09000024,Merton,E09000014,Haringey,2
+E09000024,Merton,E09000017,Hillingdon,1
+E09000024,Merton,E09000018,Hounslow,3
+E09000024,Merton,E09000019,Islington,3
+E09000024,Merton,E09000020,Kensington and Chelsea,8
+E09000024,Merton,E09000021,Kingston upon Thames,4
+E09000024,Merton,E09000022,Lambeth,8
+E09000024,Merton,E09000023,Lewisham,1
+E09000024,Merton,E09000024,Merton,443
+E09000024,Merton,E09000025,Newham,5
+E09000024,Merton,E09000027,Richmond upon Thames,6
+E09000024,Merton,E09000028,Southwark,5
+E09000024,Merton,E09000029,Sutton,5
+E09000024,Merton,E09000031,Waltham Forest,2
+E09000024,Merton,E09000032,Wandsworth,18
+E09000024,Merton,E09000033,Westminster,15
+E09000025,Newham,E09000001,City of London,12
+E09000025,Newham,E09000002,Barking and Dagenham,3
+E09000025,Newham,E09000003,Barnet,1
+E09000025,Newham,E09000004,Bexley,3
+E09000025,Newham,E09000005,Brent,3
+E09000025,Newham,E09000006,Bromley,1
+E09000025,Newham,E09000007,Camden,13
+E09000025,Newham,E09000008,Croydon,5
+E09000025,Newham,E09000009,Ealing,3
+E09000025,Newham,E09000010,Enfield,8
+E09000025,Newham,E09000011,Greenwich,9
+E09000025,Newham,E09000012,Hackney,12
+E09000025,Newham,E09000013,Hammersmith and Fulham,3
+E09000025,Newham,E09000014,Haringey,1
+E09000025,Newham,E09000016,Havering,3
+E09000025,Newham,E09000018,Hounslow,3
+E09000025,Newham,E09000019,Islington,4
+E09000025,Newham,E09000020,Kensington and Chelsea,15
+E09000025,Newham,E09000021,Kingston upon Thames,3
+E09000025,Newham,E09000022,Lambeth,8
+E09000025,Newham,E09000023,Lewisham,4
+E09000025,Newham,E09000025,Newham,514
+E09000025,Newham,E09000026,Redbridge,10
+E09000025,Newham,E09000028,Southwark,9
+E09000025,Newham,E09000029,Sutton,2
+E09000025,Newham,E09000030,Tower Hamlets,19
+E09000025,Newham,E09000031,Waltham Forest,10
+E09000025,Newham,E09000032,Wandsworth,1
+E09000025,Newham,E09000033,Westminster,29
+E09000026,Redbridge,E09000001,City of London,8
+E09000026,Redbridge,E09000002,Barking and Dagenham,8
+E09000026,Redbridge,E09000003,Barnet,2
+E09000026,Redbridge,E09000004,Bexley,2
+E09000026,Redbridge,E09000005,Brent,2
+E09000026,Redbridge,E09000007,Camden,9
+E09000026,Redbridge,E09000009,Ealing,1
+E09000026,Redbridge,E09000010,Enfield,4
+E09000026,Redbridge,E09000011,Greenwich,1
+E09000026,Redbridge,E09000013,Hammersmith and Fulham,5
+E09000026,Redbridge,E09000014,Haringey,2
+E09000026,Redbridge,E09000015,Harrow,3
+E09000026,Redbridge,E09000016,Havering,8
+E09000026,Redbridge,E09000019,Islington,4
+E09000026,Redbridge,E09000020,Kensington and Chelsea,3
+E09000026,Redbridge,E09000022,Lambeth,4
+E09000026,Redbridge,E09000023,Lewisham,1
+E09000026,Redbridge,E09000024,Merton,1
+E09000026,Redbridge,E09000025,Newham,18
+E09000026,Redbridge,E09000026,Redbridge,353
+E09000026,Redbridge,E09000028,Southwark,14
+E09000026,Redbridge,E09000030,Tower Hamlets,13
+E09000026,Redbridge,E09000031,Waltham Forest,11
+E09000026,Redbridge,E09000032,Wandsworth,2
+E09000026,Redbridge,E09000033,Westminster,8
+E09000027,Richmond upon Thames,E09000001,City of London,1
+E09000027,Richmond upon Thames,E09000005,Brent,2
+E09000027,Richmond upon Thames,E09000007,Camden,6
+E09000027,Richmond upon Thames,E09000009,Ealing,4
+E09000027,Richmond upon Thames,E09000010,Enfield,1
+E09000027,Richmond upon Thames,E09000012,Hackney,2
+E09000027,Richmond upon Thames,E09000013,Hammersmith and Fulham,6
+E09000027,Richmond upon Thames,E09000016,Havering,1
+E09000027,Richmond upon Thames,E09000017,Hillingdon,4
+E09000027,Richmond upon Thames,E09000018,Hounslow,11
+E09000027,Richmond upon Thames,E09000019,Islington,4
+E09000027,Richmond upon Thames,E09000020,Kensington and Chelsea,5
+E09000027,Richmond upon Thames,E09000021,Kingston upon Thames,9
+E09000027,Richmond upon Thames,E09000022,Lambeth,2
+E09000027,Richmond upon Thames,E09000023,Lewisham,2
+E09000027,Richmond upon Thames,E09000024,Merton,3
+E09000027,Richmond upon Thames,E09000025,Newham,1
+E09000027,Richmond upon Thames,E09000027,Richmond upon Thames,610
+E09000027,Richmond upon Thames,E09000028,Southwark,1
+E09000027,Richmond upon Thames,E09000029,Sutton,1
+E09000027,Richmond upon Thames,E09000030,Tower Hamlets,3
+E09000027,Richmond upon Thames,E09000032,Wandsworth,2
+E09000027,Richmond upon Thames,E09000033,Westminster,7
+E09000028,Southwark,E09000001,City of London,14
+E09000028,Southwark,E09000002,Barking and Dagenham,1
+E09000028,Southwark,E09000003,Barnet,4
+E09000028,Southwark,E09000005,Brent,2
+E09000028,Southwark,E09000006,Bromley,5
+E09000028,Southwark,E09000007,Camden,9
+E09000028,Southwark,E09000008,Croydon,10
+E09000028,Southwark,E09000009,Ealing,3
+E09000028,Southwark,E09000011,Greenwich,4
+E09000028,Southwark,E09000012,Hackney,5
+E09000028,Southwark,E09000013,Hammersmith and Fulham,2
+E09000028,Southwark,E09000015,Harrow,1
+E09000028,Southwark,E09000016,Havering,1
+E09000028,Southwark,E09000017,Hillingdon,2
+E09000028,Southwark,E09000018,Hounslow,2
+E09000028,Southwark,E09000019,Islington,7
+E09000028,Southwark,E09000020,Kensington and Chelsea,10
+E09000028,Southwark,E09000022,Lambeth,31
+E09000028,Southwark,E09000023,Lewisham,5
+E09000028,Southwark,E09000024,Merton,2
+E09000028,Southwark,E09000026,Redbridge,2
+E09000028,Southwark,E09000027,Richmond upon Thames,1
+E09000028,Southwark,E09000028,Southwark,793
+E09000028,Southwark,E09000029,Sutton,1
+E09000028,Southwark,E09000030,Tower Hamlets,15
+E09000028,Southwark,E09000031,Waltham Forest,1
+E09000028,Southwark,E09000032,Wandsworth,18
+E09000028,Southwark,E09000033,Westminster,36
+E09000029,Sutton,E09000001,City of London,3
+E09000029,Sutton,E09000002,Barking and Dagenham,1
+E09000029,Sutton,E09000003,Barnet,1
+E09000029,Sutton,E09000005,Brent,1
+E09000029,Sutton,E09000006,Bromley,3
+E09000029,Sutton,E09000007,Camden,2
+E09000029,Sutton,E09000008,Croydon,5
+E09000029,Sutton,E09000009,Ealing,1
+E09000029,Sutton,E09000011,Greenwich,2
+E09000029,Sutton,E09000012,Hackney,1
+E09000029,Sutton,E09000013,Hammersmith and Fulham,2
+E09000029,Sutton,E09000017,Hillingdon,2
+E09000029,Sutton,E09000018,Hounslow,2
+E09000029,Sutton,E09000020,Kensington and Chelsea,8
+E09000029,Sutton,E09000021,Kingston upon Thames,2
+E09000029,Sutton,E09000022,Lambeth,3
+E09000029,Sutton,E09000023,Lewisham,1
+E09000029,Sutton,E09000024,Merton,8
+E09000029,Sutton,E09000027,Richmond upon Thames,3
+E09000029,Sutton,E09000028,Southwark,1
+E09000029,Sutton,E09000029,Sutton,278
+E09000029,Sutton,E09000030,Tower Hamlets,1
+E09000029,Sutton,E09000032,Wandsworth,12
+E09000029,Sutton,E09000033,Westminster,9
+E09000030,Tower Hamlets,E09000001,City of London,20
+E09000030,Tower Hamlets,E09000003,Barnet,3
+E09000030,Tower Hamlets,E09000004,Bexley,2
+E09000030,Tower Hamlets,E09000005,Brent,1
+E09000030,Tower Hamlets,E09000006,Bromley,4
+E09000030,Tower Hamlets,E09000007,Camden,13
+E09000030,Tower Hamlets,E09000009,Ealing,1
+E09000030,Tower Hamlets,E09000011,Greenwich,2
+E09000030,Tower Hamlets,E09000012,Hackney,5
+E09000030,Tower Hamlets,E09000013,Hammersmith and Fulham,5
+E09000030,Tower Hamlets,E09000014,Haringey,2
+E09000030,Tower Hamlets,E09000015,Harrow,1
+E09000030,Tower Hamlets,E09000016,Havering,4
+E09000030,Tower Hamlets,E09000018,Hounslow,2
+E09000030,Tower Hamlets,E09000019,Islington,19
+E09000030,Tower Hamlets,E09000020,Kensington and Chelsea,1
+E09000030,Tower Hamlets,E09000022,Lambeth,6
+E09000030,Tower Hamlets,E09000024,Merton,1
+E09000030,Tower Hamlets,E09000025,Newham,10
+E09000030,Tower Hamlets,E09000027,Richmond upon Thames,1
+E09000030,Tower Hamlets,E09000028,Southwark,4
+E09000030,Tower Hamlets,E09000030,Tower Hamlets,809
+E09000030,Tower Hamlets,E09000031,Waltham Forest,2
+E09000030,Tower Hamlets,E09000032,Wandsworth,2
+E09000030,Tower Hamlets,E09000033,Westminster,15
+E09000031,Waltham Forest,E09000001,City of London,3
+E09000031,Waltham Forest,E09000002,Barking and Dagenham,2
+E09000031,Waltham Forest,E09000003,Barnet,3
+E09000031,Waltham Forest,E09000005,Brent,3
+E09000031,Waltham Forest,E09000007,Camden,11
+E09000031,Waltham Forest,E09000009,Ealing,4
+E09000031,Waltham Forest,E09000010,Enfield,5
+E09000031,Waltham Forest,E09000012,Hackney,8
+E09000031,Waltham Forest,E09000013,Hammersmith and Fulham,2
+E09000031,Waltham Forest,E09000014,Haringey,3
+E09000031,Waltham Forest,E09000015,Harrow,1
+E09000031,Waltham Forest,E09000016,Havering,2
+E09000031,Waltham Forest,E09000017,Hillingdon,2
+E09000031,Waltham Forest,E09000019,Islington,5
+E09000031,Waltham Forest,E09000020,Kensington and Chelsea,4
+E09000031,Waltham Forest,E09000022,Lambeth,5
+E09000031,Waltham Forest,E09000023,Lewisham,4
+E09000031,Waltham Forest,E09000025,Newham,5
+E09000031,Waltham Forest,E09000026,Redbridge,7
+E09000031,Waltham Forest,E09000028,Southwark,3
+E09000031,Waltham Forest,E09000030,Tower Hamlets,9
+E09000031,Waltham Forest,E09000031,Waltham Forest,333
+E09000031,Waltham Forest,E09000032,Wandsworth,2
+E09000031,Waltham Forest,E09000033,Westminster,10
+E09000032,Wandsworth,E09000001,City of London,18
+E09000032,Wandsworth,E09000003,Barnet,1
+E09000032,Wandsworth,E09000005,Brent,2
+E09000032,Wandsworth,E09000006,Bromley,1
+E09000032,Wandsworth,E09000007,Camden,9
+E09000032,Wandsworth,E09000008,Croydon,7
+E09000032,Wandsworth,E09000009,Ealing,1
+E09000032,Wandsworth,E09000012,Hackney,1
+E09000032,Wandsworth,E09000013,Hammersmith and Fulham,12
+E09000032,Wandsworth,E09000014,Haringey,2
+E09000032,Wandsworth,E09000015,Harrow,1
+E09000032,Wandsworth,E09000018,Hounslow,11
+E09000032,Wandsworth,E09000019,Islington,5
+E09000032,Wandsworth,E09000020,Kensington and Chelsea,27
+E09000032,Wandsworth,E09000021,Kingston upon Thames,6
+E09000032,Wandsworth,E09000022,Lambeth,12
+E09000032,Wandsworth,E09000024,Merton,9
+E09000032,Wandsworth,E09000025,Newham,3
+E09000032,Wandsworth,E09000026,Redbridge,1
+E09000032,Wandsworth,E09000027,Richmond upon Thames,3
+E09000032,Wandsworth,E09000028,Southwark,8
+E09000032,Wandsworth,E09000029,Sutton,1
+E09000032,Wandsworth,E09000030,Tower Hamlets,7
+E09000032,Wandsworth,E09000031,Waltham Forest,2
+E09000032,Wandsworth,E09000032,Wandsworth,884
+E09000032,Wandsworth,E09000033,Westminster,54
+E09000033,Westminster,E09000001,City of London,17
+E09000033,Westminster,E09000003,Barnet,2
+E09000033,Westminster,E09000005,Brent,6
+E09000033,Westminster,E09000006,Bromley,3
+E09000033,Westminster,E09000007,Camden,25
+E09000033,Westminster,E09000008,Croydon,2
+E09000033,Westminster,E09000009,Ealing,4
+E09000033,Westminster,E09000010,Enfield,3
+E09000033,Westminster,E09000011,Greenwich,1
+E09000033,Westminster,E09000012,Hackney,7
+E09000033,Westminster,E09000013,Hammersmith and Fulham,9
+E09000033,Westminster,E09000014,Haringey,2
+E09000033,Westminster,E09000015,Harrow,5
+E09000033,Westminster,E09000018,Hounslow,1
+E09000033,Westminster,E09000019,Islington,5
+E09000033,Westminster,E09000020,Kensington and Chelsea,21
+E09000033,Westminster,E09000022,Lambeth,5
+E09000033,Westminster,E09000023,Lewisham,1
+E09000033,Westminster,E09000024,Merton,1
+E09000033,Westminster,E09000025,Newham,3
+E09000033,Westminster,E09000027,Richmond upon Thames,2
+E09000033,Westminster,E09000028,Southwark,5
+E09000033,Westminster,E09000030,Tower Hamlets,16
+E09000033,Westminster,E09000031,Waltham Forest,3
+E09000033,Westminster,E09000032,Wandsworth,4
+E09000033,Westminster,E09000033,Westminster,1499
