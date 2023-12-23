@@ -1,0 +1,334 @@
+code,category,value,areaName
+E06000001,pop,92338,Hartlepool
+E06000002,pop,143926,Middlesbrough
+E06000003,pop,136531,Redcar and Cleveland
+E06000004,pop,196595,Stockton-on-Tees
+E06000005,pop,107799,Darlington
+E06000006,pop,128478,Halton
+E06000011,pop,342215,East Riding of Yorkshire
+E06000012,pop,156966,North East Lincolnshire
+E06000014,pop,202821,York
+E06000015,pop,261364,Derby
+E06000017,pop,41049,Rutland
+E06000018,pop,323632,Nottingham
+E06000019,pop,187034,Herefordshire
+E06000020,pop,185541,Telford and Wrekin
+E06000021,pop,258366,Stoke-on-Trent
+E06000023,pop,472465,Bristol
+E06000024,pop,216726,North Somerset
+E06000026,pop,264695,Plymouth
+E06000027,pop,139324,Torbay
+E06000031,pop,215671,Peterborough
+E06000032,pop,225262,Luton
+E06000035,pop,279773,Medway
+E06000036,pop,124607,Bracknell Forest
+E06000037,pop,161448,West Berkshire
+E06000038,pop,174224,Reading
+E06000039,pop,158500,Slough
+E06000040,pop,153496,Windsor and Maidenhead
+E06000041,pop,177503,Wokingham
+E06000042,pop,287060,Milton Keynes
+E06000043,pop,277103,Brighton and Hove
+E06000044,pop,208003,Portsmouth
+E06000045,pop,248922,Southampton
+E06000047,pop,522068,County Durham
+E06000050,pop,357150,Cheshire West and Chester
+E06000051,pop,323606,Shropshire
+E06000053,pop,2053,Isles of Scilly
+E06000054,pop,510333,Wiltshire
+E06000055,pop,185225,Bedford
+E06000056,pop,294252,Central Bedfordshire
+E06000057,pop,320567,Northumberland
+E06000058,pop,400196,Bournemouth Christchurch and Poole
+E06000059,pop,379579,Dorset
+E06000060,pop,553078,Buckinghamshire
+E06000061,pop,359525,North Northamptonshire
+E06000062,pop,425725,West Northamptonshire
+E07000008,pop,145674,Cambridge
+E07000009,pop,87762,East Cambridgeshire
+E07000010,pop,102462,Fenland
+E07000012,pop,162118,South Cambridgeshire
+E07000026,pop,96157,Allerdale
+E07000027,pop,67407,Barrow-in-Furness
+E07000028,pop,110024,Carlisle
+E07000029,pop,67076,Copeland
+E07000030,pop,54735,Eden
+E07000031,pop,104450,South Lakeland
+E07000032,pop,126206,Amber Valley
+E07000033,pop,80272,Bolsover
+E07000034,pop,103569,Chesterfield
+E07000035,pop,71540,Derbyshire Dales
+E07000036,pop,112906,Erewash
+E07000037,pop,90933,High Peak
+E07000038,pop,102001,North East Derbyshire
+E07000041,pop,130709,Exeter
+E07000042,pop,82852,Mid Devon
+E07000043,pop,98611,North Devon
+E07000045,pop,134803,Teignbridge
+E07000046,pop,68114,Torridge
+E07000047,pop,57096,West Devon
+E07000061,pop,101686,Eastbourne
+E07000062,pop,90995,Hastings
+E07000063,pop,99905,Lewes
+E07000067,pop,155268,Braintree
+E07000068,pop,77047,Brentwood
+E07000069,pop,89587,Castle Point
+E07000070,pop,181523,Chelmsford
+E07000071,pop,192715,Colchester
+E07000072,pop,134980,Epping Forest
+E07000074,pop,66208,Maldon
+E07000076,pop,148291,Tendring
+E07000079,pop,90832,Cotswold
+E07000080,pop,87004,Forest of Dean
+E07000082,pop,121104,Stroud
+E07000084,pop,185154,Basingstoke and Deane
+E07000085,pop,125744,East Hampshire
+E07000086,pop,136443,Eastleigh
+E07000087,pop,114511,Fareham
+E07000088,pop,81952,Gosport
+E07000089,pop,99408,Hart
+E07000091,pop,175785,New Forest
+E07000092,pop,99756,Rushmoor
+E07000093,pop,130492,Test Valley
+E07000094,pop,127444,Winchester
+E07000095,pop,99009,Broxbourne
+E07000096,pop,155081,Dacorum
+E07000098,pop,107827,Hertsmere
+E07000099,pop,133210,North Hertfordshire
+E07000102,pop,93771,Three Rivers
+E07000106,pop,157432,Canterbury
+E07000107,pop,116753,Dartford
+E07000108,pop,116410,Dover
+E07000109,pop,106900,Gravesham
+E07000110,pop,175782,Maidstone
+E07000111,pop,120514,Sevenoaks
+E07000113,pop,151676,Swale
+E07000114,pop,140587,Thanet
+E07000115,pop,132201,Tonbridge and Malling
+E07000116,pop,115311,Tunbridge Wells
+E07000117,pop,94646,Burnley
+E07000118,pop,117732,Chorley
+E07000121,pop,142934,Lancaster
+E07000122,pop,95757,Pendle
+E07000123,pop,147835,Preston
+E07000125,pop,70871,Rossendale
+E07000126,pop,111035,South Ribble
+E07000127,pop,117429,West Lancashire
+E07000128,pop,111946,Wyre
+E07000129,pop,102926,Blaby
+E07000130,pop,183971,Charnwood
+E07000131,pop,97625,Harborough
+E07000132,pop,113642,Hinckley and Bosworth
+E07000133,pop,51752,Melton
+E07000134,pop,104706,North West Leicestershire
+E07000135,pop,57747,Oadby and Wigston
+E07000137,pop,142296,East Lindsey
+E07000138,pop,103813,Lincoln
+E07000139,pop,118075,North Kesteven
+E07000140,pop,95122,South Holland
+E07000141,pop,143404,South Kesteven
+E07000143,pop,141476,Breckland
+E07000144,pop,131721,Broadland
+E07000145,pop,99748,Great Yarmouth
+E07000146,pop,154325,Kings Lynn and West Norfolk
+E07000148,pop,143922,Norwich
+E07000149,pop,141948,South Norfolk
+E07000163,pop,56927,Craven
+E07000164,pop,90690,Hambleton
+E07000165,pop,162666,Harrogate
+E07000166,pop,49776,Richmondshire
+E07000167,pop,54707,Ryedale
+E07000169,pop,91988,Selby
+E07000170,pop,126300,Ashfield
+E07000171,pop,117804,Bassetlaw
+E07000172,pop,110940,Broxtowe
+E07000173,pop,117264,Gedling
+E07000175,pop,122956,Newark and Sherwood
+E07000176,pop,119077,Rushcliffe
+E07000177,pop,161016,Cherwell
+E07000178,pop,162040,Oxford
+E07000179,pop,149085,South Oxfordshire
+E07000180,pop,138913,Vale of White Horse
+E07000181,pop,114237,West Oxfordshire
+E07000187,pop,116089,Mendip
+E07000188,pop,125343,Sedgemoor
+E07000189,pop,172671,South Somerset
+E07000192,pop,100519,Cannock Chase
+E07000193,pop,124020,East Staffordshire
+E07000194,pop,106436,Lichfield
+E07000195,pop,123299,Newcastle-under-Lyme
+E07000196,pop,110472,South Staffordshire
+E07000197,pop,136867,Stafford
+E07000199,pop,78646,Tamworth
+E07000200,pop,92341,Babergh
+E07000203,pop,102699,Mid Suffolk
+E07000207,pop,138754,Elmbridge
+E07000208,pop,80938,Epsom and Ewell
+E07000209,pop,143650,Guildford
+E07000210,pop,87386,Mole Valley
+E07000211,pop,150846,Reigate and Banstead
+E07000212,pop,88079,Runnymede
+E07000213,pop,102956,Spelthorne
+E07000215,pop,87876,Tandridge
+E07000216,pop,128229,Waverley
+E07000217,pop,103943,Woking
+E07000218,pop,65035,North Warwickshire
+E07000219,pop,134197,Nuneaton and Bedworth
+E07000220,pop,114363,Rugby
+E07000221,pop,134725,Stratford-on-Avon
+E07000222,pop,148453,Warwick
+E07000223,pop,64544,Adur
+E07000224,pop,164889,Arun
+E07000225,pop,124068,Chichester
+E07000226,pop,118493,Crawley
+E07000227,pop,146778,Horsham
+E07000228,pop,152566,Mid Sussex
+E07000229,pop,111338,Worthing
+E07000234,pop,99183,Bromsgrove
+E07000235,pop,79486,Malvern Hills
+E07000236,pop,87036,Redditch
+E07000237,pop,103872,Worcester
+E07000238,pop,132492,Wychavon
+E07000239,pop,101607,Wyre Forest
+E07000240,pop,148167,St Albans
+E07000241,pop,119836,Welwyn Hatfield
+E07000242,pop,150158,East Hertfordshire
+E07000243,pop,89495,Stevenage
+E07000244,pop,246058,East Suffolk
+E07000245,pop,179948,West Suffolk
+E07000246,pop,157445,Somerset West and Taunton
+E08000002,pop,193851,Bury
+E08000003,pop,551938,Manchester
+E08000004,pop,242088,Oldham
+E08000005,pop,223773,Rochdale
+E08000006,pop,269923,Salford
+E08000007,pop,294773,Stockport
+E08000008,pop,231071,Tameside
+E08000009,pop,235052,Trafford
+E08000010,pop,329330,Wigan
+E08000011,pop,154519,Knowsley
+E08000012,pop,486088,Liverpool
+E08000013,pop,183248,St. Helens
+E08000014,pop,279233,Sefton
+E08000015,pop,320199,Wirral
+E08000016,pop,244572,Barnsley
+E08000017,pop,308106,Doncaster
+E08000018,pop,265807,Rotherham
+E08000021,pop,300125,Newcastle upon Tyne
+E08000022,pop,208967,North Tyneside
+E08000023,pop,147776,South Tyneside
+E08000024,pop,274172,Sunderland
+E08000025,pop,1144919,Birmingham
+E08000026,pop,345325,Coventry
+E08000027,pop,323486,Dudley
+E08000028,pop,341832,Sandwell
+E08000029,pop,216240,Solihull
+E08000030,pop,284124,Walsall
+E08000031,pop,263727,Wolverhampton
+E08000032,pop,546412,Bradford
+E08000033,pop,206631,Calderdale
+E08000034,pop,433216,Kirklees
+E08000035,pop,811956,Leeds
+E08000036,pop,353368,Wakefield
+E08000037,pop,196151,Gateshead
+E09000001,pop,8583,City of London
+E09000002,pop,218869,Barking and Dagenham
+E09000003,pop,389344,Barnet
+E09000004,pop,246472,Bexley
+E09000005,pop,339816,Brent
+E09000006,pop,329992,Bromley
+E09000007,pop,210136,Camden
+E09000008,pop,390719,Croydon
+E09000009,pop,367115,Ealing
+E09000010,pop,329984,Enfield
+E09000011,pop,289068,Greenwich
+E09000013,pop,183157,Hammersmith and Fulham
+E09000014,pop,264238,Haringey
+E09000015,pop,261203,Harrow
+E09000016,pop,262052,Havering
+E09000017,pop,305909,Hillingdon
+E09000018,pop,288181,Hounslow
+E09000019,pop,216589,Islington
+E09000020,pop,143375,Kensington and Chelsea
+E09000021,pop,168063,Kingston upon Thames
+E09000022,pop,317654,Lambeth
+E09000023,pop,300553,Lewisham
+E09000024,pop,215186,Merton
+E09000025,pop,351036,Newham
+E09000026,pop,310260,Redbridge
+E09000027,pop,195278,Richmond upon Thames
+E09000028,pop,307637,Southwark
+E09000029,pop,209639,Sutton
+E09000030,pop,310306,Tower Hamlets
+E09000031,pop,278426,Waltham Forest
+E09000032,pop,327506,Wandsworth
+E09000033,pop,204236,Westminster
+W06000001,pop,68878,Isle of Anglesey
+W06000002,pop,117393,Gwynedd
+W06000003,pop,114741,Conwy
+W06000004,pop,95817,Denbighshire
+W06000005,pop,154962,Flintshire
+W06000006,pop,135117,Wrexham
+W06000008,pop,71475,Ceredigion
+W06000009,pop,123360,Pembrokeshire
+W06000010,pop,187897,Carmarthenshire
+W06000011,pop,238490,Swansea
+W06000012,pop,142289,Neath Port Talbot
+W06000013,pop,145488,Bridgend
+W06000014,pop,131939,Vale of Glamorgan
+W06000015,pop,362308,Cardiff
+W06000016,pop,237651,Rhondda Cynon Taf
+W06000018,pop,175952,Caerphilly
+W06000019,pop,66904,Blaenau Gwent
+W06000020,pop,92276,Torfaen
+W06000021,pop,92957,Monmouthshire
+W06000022,pop,159592,Newport
+W06000023,pop,133169,Powys
+W06000024,pop,58836,Merthyr Tydfil
+E06000053,pop,2053,Isles of Scilly
+E09000001,pop,8583,City of London
+E06000007,pop,210974,Warrington
+E06000008,pop,154738,Blackburn with Darwen
+E06000009,pop,141036,Blackpool
+E06000010,pop,267014,Kingston upon Hull
+E06000013,pop,169680,North Lincolnshire
+E06000016,pop,368571,Leicester
+E06000022,pop,193409,Bath and North East Somerset
+E06000025,pop,290424,South Gloucestershire
+E06000030,pop,233407,Swindon
+E06000033,pop,180686,Southend-on-Sea
+E06000034,pop,176001,Thurrock
+E06000046,pop,140459,Isle of Wight
+E06000049,pop,398772,Cheshire East
+E06000052,pop,570305,Cornwall
+E07000011,pop,180832,Huntingdonshire
+E07000039,pop,107205,South Derbyshire
+E07000040,pop,150828,East Devon
+E07000044,pop,88627,South Hams
+E07000064,pop,93108,Rother
+E07000065,pop,160152,Wealden
+E07000066,pop,187571,Basildon
+E07000073,pop,93329,Harlow
+E07000078,pop,118836,Cheltenham
+E07000081,pop,132416,Gloucester
+E07000083,pop,94884,Tewkesbury
+E07000090,pop,124208,Havant
+E07000103,pop,102246,Watford
+E07000112,pop,109758,Folkestone and Hythe
+E07000119,pop,81374,Fylde
+E07000120,pop,82234,Hyndburn
+E07000124,pop,61561,Ribble Valley
+E07000136,pop,70502,Boston
+E07000142,pop,95156,West Lindsey
+E07000147,pop,102980,North Norfolk
+E07000168,pop,108736,Scarborough
+E07000174,pop,110482,Mansfield
+E07000198,pop,95845,Staffordshire Moorlands
+E07000202,pop,139642,Ipswich
+E07000214,pop,90453,Surrey Heath
+E08000001,pop,295963,Bolton
+E08000019,pop,556521,Sheffield
+E09000012,pop,259146,Hackney
+E07000075,pop,85661,Rochford
+E07000077,pop,91341,Uttlesford
+E07000105,pop,132747,Ashford
